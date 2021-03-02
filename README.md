@@ -1,4 +1,4 @@
-# 수강 핑 테스터 by dev.Coffee
+# ::수강 핑 테스터 by dev.Coffee
 
 ![GitHub](https://img.shields.io/github/license/stevenoh0908/Sugang-Ping-Tester)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/stevenoh0908/Sugang-Ping-Tester)
