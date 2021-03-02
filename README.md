@@ -21,3 +21,12 @@
 - 또한 PING 값의 측정 및 분석 결과를 바탕으로 사용자의 네트워크 상태를 진단하고, 어떤 문제가 있는지, 어떻게 해결할 수 있는지를 구체적으로 분석해줍니다.
 
 ## 설치 및 실행법 (How to Install and Execute)
+1. [배포 페이지(Releases)](https://github.com/stevenoh0908/Sugang-Ping-Tester/releases)에서 가장 최신 버전을 확인하고, 에셋(Assets)를 통하여 zip 파일 혹은 tar.gz 파일의 압축 파일을 내려 받으세요.
+2. 원하는 폴더에 압축을 푸세요. 이 프로그램은 압축을 푸는 것 이외의 별도의 설치 절차를 필요로 하지 않습니다.
+3. 압축이 풀린 폴더로 들어가 ```dist``` 폴더로 들어가서, ```sugang-ping-tester.exe```를 더블클릭하여 프로그램을 실행합니다.
+
+## 문의 및 버그 
+- 이 프로그램과 관련된 각종 문의와 버그는 dev.Coffee 공식 이메일로 부탁드립니다. 확인하면 가능한 빠른 시일 내로 개선하겠습니다.
+- **Email:** 
+## 후원하기 (Support)
+<a href="https://donaricano.com/mypage/1647318408_6_oxLQ" target="_blank"><img src="https://d1u4yishnma8v5.cloudfront.net/donarincano_gift.png" alt="donaricano-btn" style="height: 70px !important;width: 200px !important;" /></a>
