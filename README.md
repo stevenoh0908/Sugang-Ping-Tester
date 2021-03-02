@@ -30,6 +30,7 @@
 
 ## 문의 및 버그 
 - 이 프로그램과 관련된 각종 문의와 버그는 dev.Coffee 공식 이메일로 부탁드립니다. 확인하면 가능한 빠른 시일 내로 개선하겠습니다.
-- **Email:** 
+- **Email:** official.devcoffee@gmail.com
+
 ## 후원하기 (Support)
 <a href="https://donaricano.com/mypage/1647318408_6_oxLQ" target="_blank"><img src="https://d1u4yishnma8v5.cloudfront.net/donarincano_gift.png" alt="donaricano-btn" style="height: 70px !important;width: 200px !important;" /></a>
